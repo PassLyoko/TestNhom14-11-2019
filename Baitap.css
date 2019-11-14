@@ -13,7 +13,7 @@
 .a3:hover{
 	color: #d2bb07;
 }
-.btn{
+.a{
 	margin: 0 auto;
 	border-radius: 5rem 10rem 0 5rem;
 	color: white
@@ -50,4 +50,45 @@ img.icon{
 }
 a h5:hover{
 	color:#f2bb07;
+}
+a.navbar-brand.f {
+    margin-right: 15rem;
+    font-size: 2rem;
+    font-family: times;
+}
+ul.navbar-nav {
+    margin-right: 1rem; 
+    font-family: times;
+    font-size: 1.2rem;
+}
+ul li:hover{
+	background: #f2bb07;
+	border-radius: 5px;
+}
+.container-fluid h5{
+	font-family: times;
+	
+}
+.container-fluid h1{
+	font-family: times;
+	
+}
+.container-fluid h4{
+	font-family: times;
+	
+}
+a{
+	font-family: times;
+}
+.col-12 img{
+	width: 100%;
+	height: 100%;
+}
+.f a:hover{
+	background: black;
+	color: white;
+}
+.s a:hover{
+	background: white;
+	color: black;
 }
