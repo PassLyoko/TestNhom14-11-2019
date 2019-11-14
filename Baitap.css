@@ -1,16 +1,16 @@
 
 
-a.a1{
+.a1{
 	color: white;
 	font-size: 1.5rem;
 }
-a.a1:hover{
+.a1:hover{
 	color: cyan;
 }
-a.a2{
+.a2{
 	font-size: 2rem;
 }
-a.a3:hover{
+.a3:hover{
 	color: #d2bb07;
 }
 .btn{
@@ -38,4 +38,16 @@ img.icon{
 }
 .vien{
 	border: 5px solid #f2bb07;
+}
+.bt {
+	border-radius: 5rem 10rem 0 5rem; 
+	height: 2.5rem;
+	line-height: 2.5rem;
+}
+.footer-text {
+	margin-left: 8rem;
+	margin-right: 4rem;
+}
+a h5:hover{
+	color:#f2bb07;
 }
