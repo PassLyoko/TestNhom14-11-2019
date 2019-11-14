@@ -13,3 +13,29 @@ a.a2{
 a.a3:hover{
 	color: #d2bb07;
 }
+.btn{
+	margin: 0 auto;
+	border-radius: 5rem 10rem 0 5rem;
+	color: white
+}
+.duongke{
+	width: 30%;
+	height: 3px;
+	background: #f2bb07;
+	margin: 0 auto;
+	border-radius: 2px
+}
+img.car{
+	border: 5px solid white;
+}
+img.icon{
+	width: 10%;
+	height: 10%;
+	position: relative;
+	left: 45%;
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+}
+.vien{
+	border: 5px solid #f2bb07;
+}
