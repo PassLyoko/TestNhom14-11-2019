@@ -44,10 +44,10 @@ img.icon{
 	height: 2.5rem;
 	line-height: 2.5rem;
 }
-.footer-text {
-	margin-left: 8rem;
-	margin-right: 4rem;
-}
+/*.footer-text {*/
+	/*margin-left: 8rem;*/
+/*	margin-right: 4rem;
+*/}
 a h5:hover{
 	color:#f2bb07;
 
@@ -81,7 +81,7 @@ ul li:hover{
 a:hover{
 	font-family: times;
 	text-decoration: none;
-	
+
 }
 .col-12 img{
 	width: 100%;
@@ -94,4 +94,7 @@ a:hover{
 .s a:hover{
 	background: white;
 	color: black;
+}
+p ,h4 ,h5, h3{
+	font-family: times;
 }
