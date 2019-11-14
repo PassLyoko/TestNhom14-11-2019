@@ -1,0 +1,15 @@
+
+
+a.a1{
+	color: white;
+	font-size: 1.5rem;
+}
+a.a1:hover{
+	color: cyan;
+}
+a.a2{
+	font-size: 2rem;
+}
+a.a3:hover{
+	color: #d2bb07;
+}
